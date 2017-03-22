@@ -29,7 +29,7 @@ var allItemsFromServer = [{ "item": "★ Karambit | Gamma Doppler (Factory New)"
 var getKnifes = [];
 var getNames = [];
 var ifERROR = false;
-var refreshTime = 25000;
+var refreshTime = 18000;
 var knifes = [];
 var startTime = 0;
 
